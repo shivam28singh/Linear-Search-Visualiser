@@ -1,0 +1,62 @@
+
+.bton{
+  height:60px;
+  width:60px;
+  margin:10px 10px;
+  background-color: grey;
+}
+
+.number-button{
+  padding:10px 10px;
+  text-align: center;
+  margin:60px ;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color:rgb(231, 105, 105);
+}
+
+.change-color{
+  background-color: green;
+}
+
+.Search-key{
+  text-align: center;
+  margin: 60px 30px;
+  padding: 30px 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.ans{
+  height:160px;
+  padding:30px;
+  width:690px;
+  margin:0 auto;
+  text-align: center;
+  font-size: 50px;
+  color:rgba(208, 199, 26,0.5);
+}
+
+
+.to-do{
+   margin: 50px 0;
+   font-family: 'Lato', sans-serif;
+   padding: 50px 50px;
+}
+
+#search{
+  position:absolute;
+  left:650px;
+}
+
+#clear{
+  position:absolute;
+  right:650px;
+}
+
+body{
+  margin: 8px;
+  background-color: black;
+}
